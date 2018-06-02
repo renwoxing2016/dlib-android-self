@@ -6,5 +6,5 @@
 故此次验证了在windows上编译dlib的Android库
 
 完整的代码及编译后的so库，参见本目录的文件。
-方法参见个人的头条。
-
+方法参见个人的头条：https://www.toutiao.com/c/user/82193687539/#mid=1593333270293518
+或在头条上搜索“windows上编译用于Android的dlib库”
